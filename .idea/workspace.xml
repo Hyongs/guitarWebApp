@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bca716e7-b393-4cee-b5b2-6bef924b749d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/guitarWebApp/intro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guitarWebApp/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/guitarWebApp/intro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guitarWebApp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/guitarWebApp/main.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -84,13 +83,15 @@
       <path value="$PROJECT_DIR$/html5api/08nodejs-websocket-server_edu/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="332" />
     <option name="y" value="464" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -145,7 +146,7 @@
     <option name="totallyTimeSpent" value="1605000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="464" width="1400" height="1000" extended-state="1" />
+    <frame x="332" y="464" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
